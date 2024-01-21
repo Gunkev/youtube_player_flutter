@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "name": "Getting Started with OpenReplay in 3 minutes or less",
+    "url": "https://www.youtube.com/watch?v=EWbtMK3qK30"
+  },
+  {
+    "id": 1,
+    "name": "Sanitizing Session Data with OpenReplay",
+    "url": "https://www.youtube.com/watch?v=22-UCoocy6s"
+  }, {
+    "id": 2,
+    "name": "How to Deploy OpenReplay into Google Cloud Platform (GCP)",
+    "url": "https://www.youtube.com/watch?v=t31fj-0t3Dw"
+  },
+  {
+    "id": 3,
+    "name": "How to Deploy OpenReplay to AWS",
+    "url": "https://www.youtube.com/watch?v=0-02jJyL4_A"
+  },
+  {
+    "id": 4,
+    "name": "Associating Users with Session Replays",
+    "url": "https://www.youtube.com/watch?v=xfotXkeyXZM"
+  }, {
+    "id": 5,
+    "name": "Engaging with your customers with the Assist plugin",
+    "url": "https://www.youtube.com/watch?v=8hpolw2_mMs"
+  }
+]
